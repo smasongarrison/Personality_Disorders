@@ -1,6 +1,6 @@
 \begin{frame}[fragile,allowframebreaks]{Introduction}
 \begin{itemize}
-\item During the development process of the fifth edition of the  Diagnostic and Statistical Manual of Mental Disorders (DSM-5), proposed revisions would have significantly changed the method of diagnosis for personality disorders.\\~\\
+\item During the development process of the fifth edition of the  Diagnostic and Statistical Manual of Mental Disorders (\citeyear{dsm2013diagnostic}; DSM-5), proposed revisions would have significantly changed the method of diagnosis for personality disorders.\\~\\
 \item The propsoed revisions would have replaced the categorical approach with a trait-specific method, addressing many of the structure problems, including the overuse of PD-NOS.\\~\\
 \item Clinicals would then rate these traits in terms of severity.\\~\\
 \item The American Psychiatric Association (APA$_1$) Board of Trustees decided to retain the DSM-IV-TR categorical approach with the same 10 personality disorders\\~\\

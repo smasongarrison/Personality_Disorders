@@ -56,23 +56,32 @@
 \headcommand {\beamer@subsectionentry {0}{3}{3}{29}{Disorders}}\headcommand {\beamer@subsectionpages {26}{28}}
 \headcommand {\slideentry {3}{3}{1}{29/31}{Disorders}{0}}
 \headcommand {\beamer@framepages {29}{31}}
-\headcommand {\sectionentry {4}{Categorical vs. Dimensional}{32}{Categorical vs. Dimensional}{0}}
-\headcommand {\beamer@sectionpages {23}{31}}
-\headcommand {\beamer@subsectionpages {29}{31}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{32}{Similarities}}\headcommand {\beamer@subsectionpages {32}{31}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{32}{Differences}}\headcommand {\beamer@subsectionpages {32}{31}}
-\headcommand {\sectionentry {5}{Discussion}{32}{Discussion}{0}}
-\headcommand {\beamer@sectionpages {32}{31}}
-\headcommand {\beamer@subsectionpages {32}{31}}
-\headcommand {\slideentry {5}{0}{1}{32/32}{}{0}}
-\headcommand {\beamer@framepages {32}{32}}
-\headcommand {\sectionentry {6}{References}{33}{References}{0}}
-\headcommand {\beamer@sectionpages {32}{32}}
-\headcommand {\beamer@subsectionpages {32}{32}}
-\headcommand {\slideentry {6}{0}{2}{33/33}{}{0}}
-\headcommand {\beamer@framepages {33}{33}}
-\headcommand {\beamer@partpages {1}{33}}
-\headcommand {\beamer@subsectionpages {32}{33}}
-\headcommand {\beamer@sectionpages {32}{33}}
-\headcommand {\beamer@documentpages {33}}
-\headcommand {\def \inserttotalframenumber {23}}
+\headcommand {\slideentry {3}{3}{2}{32/33}{Disorders}{0}}
+\headcommand {\beamer@framepages {32}{33}}
+\headcommand {\slideentry {3}{3}{3}{34/34}{Disorders}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\sectionentry {4}{Categorical vs. Dimensional}{35}{Categorical vs. Dimensional}{0}}
+\headcommand {\beamer@sectionpages {23}{34}}
+\headcommand {\beamer@subsectionpages {29}{34}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{35}{Borderline Personality Disorder}}\headcommand {\beamer@subsectionpages {35}{34}}
+\headcommand {\slideentry {4}{1}{1}{35/35}{Borderline Personality Disorder}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {4}{1}{1}{35/36}{Borderline Personality Disorder}{0}}
+\headcommand {\beamer@framepages {35}{36}}
+\headcommand {\slideentry {4}{1}{1}{35/37}{Borderline Personality Disorder}{0}}
+\headcommand {\beamer@framepages {35}{37}}
+\headcommand {\sectionentry {5}{Discussion}{38}{Discussion}{0}}
+\headcommand {\beamer@sectionpages {35}{37}}
+\headcommand {\beamer@subsectionpages {35}{37}}
+\headcommand {\slideentry {5}{0}{2}{38/38}{}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\sectionentry {6}{References}{39}{References}{0}}
+\headcommand {\beamer@sectionpages {38}{38}}
+\headcommand {\beamer@subsectionpages {38}{38}}
+\headcommand {\slideentry {6}{0}{3}{39/39}{}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\beamer@partpages {1}{39}}
+\headcommand {\beamer@subsectionpages {38}{39}}
+\headcommand {\beamer@sectionpages {38}{39}}
+\headcommand {\beamer@documentpages {39}}
+\headcommand {\def \inserttotalframenumber {28}}

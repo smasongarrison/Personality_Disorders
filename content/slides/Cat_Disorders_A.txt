@@ -1,21 +1,21 @@
 \frame{
 \frametitle{Cluster A (Weird)}
 \begin{columns}
-\begin{column}{5cm}
+\begin{column}{6cm}
 \begin{itemize}
 \item<1->{Paranoid personality disorder}
-\alt<1>{\begin{itemize}\item is characterized by ``a pervasive distrust and suspiciousness of others such that their motives are interpreted as malevolent''\citep{dsm2013diagnostic}.\end{itemize}}{\item<2-> Schizoid personality disorder}
+\alt<1>{\begin{itemize}\item is characterized by ``a pervasive distrust and suspiciousness of others such that their motives are interpreted as malevolent.''\end{itemize}}{\item<2-> Schizoid personality disorder}
 \alt<2>{\begin{itemize}\item is ``a pattern of detachment from social relationships and a restricted range of emotional expression.''.\end{itemize}}{\item<3-> Schizotypal personality disorder}
 \alt<3>{\begin{itemize}\item is characterized by ``a pattern of acute discomfort in close relationships, 
 cognitive or perceptual distortions, and eccentricities of behavior.''\end{itemize}}{ }
 \end{itemize}
 \vspace{3cm} 
 \end{column}
-\begin{column}{5cm}
+\begin{column}{4cm}
 \begin{overprint}
-\includegraphics<1>[width=\textwidth]{paranoid}
-\includegraphics<2>[width=\textwidth]{schizoid}
-\includegraphics<3>[width=\textwidth]{schizotypal}
+\hspace*{-.8cm}\includegraphics<1>[width=1.2\textwidth]{paranoid}
+\includegraphics<2>[width=1.2\textwidth]{schizoid}
+\includegraphics<3>[width=1.2\textwidth]{schizotypal}
 \end{overprint}
 \end{column}
 \end{columns}}

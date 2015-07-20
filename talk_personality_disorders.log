@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  20 JUL 2015 09:13
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  20 JUL 2015 09:59
 entering extended mode
 **talk_personality_disorders.tex
 
@@ -1026,8 +1026,7 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 ))
-("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
-disorders.aux")
+No file talk_personality_disorders.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
@@ -1044,7 +1043,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 97.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 97.
@@ -1115,11 +1114,6 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 97.
 LaTeX Info: Redefining \pageref on input line 97.
 LaTeX Info: Redefining \nameref on input line 97.
-
-("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
-disorders.out")
-("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
-disorders.out")
 \@outlinefile=\write5
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
@@ -1196,7 +1190,7 @@ LaTeX Info: Redefining \BHBI on input line 130.
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
 disorders.nav")
 Overfull \hbox (26.69507pt too wide) detected at line 97
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 
@@ -1207,12 +1201,12 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 14.
 
 
-Overfull \vbox (5.28307pt too high) detected at line 14
+Overfull \vbox (4.99619pt too high) detected at line 14
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [1{C:/Users/smaso_000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
@@ -1223,7 +1217,7 @@ bleofcontents.txt"
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
 disorders.toc")
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [2
@@ -1242,25 +1236,23 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 3.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-! Undefined control sequence.
-l.3 ...cal Manual of Mental Disorders (\citealyear
-                                                  {dsm2013diagnostic}; DSM-5...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 3.
+
+
+Package natbib Warning: Citation `dsm2013diagnostic' on page 3 undefined on inp
+ut line 3.
 
 )
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [3
 
 ]
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [4
@@ -1279,14 +1271,14 @@ Missing character: There is no € in font pplr7t!
 Missing character: There is no ” in font pplr7t!
 )
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [5
 
 ]
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [6
@@ -1316,14 +1308,14 @@ or  <return>  to continue without it.
 
 )
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [7
 
 ]
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [8
@@ -1335,73 +1327,65 @@ t_Disorders.txt"
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
 disorders.vrb")
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [9
 
 ])
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\content/slides/Ca
-t_Disorders_A.txt" <graphics/paranoid.jpg, id=550, 67.2111pt x 81.1833pt>
+t_Disorders_A.txt" <graphics/paranoid.jpg, id=556, 67.2111pt x 81.1833pt>
 File: graphics/paranoid.jpg Graphic file (type jpg)
 
 <use graphics/paranoid.jpg>
 Package pdftex.def Info: graphics/paranoid.jpg used on input line 21.
-(pdftex.def)             Requested size: 142.26378pt x 171.85754pt.
+(pdftex.def)             Requested size: 136.57288pt x 164.98245pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 21--21
-[][][]  
- []
-
-
-Overfull \vbox (4.28906pt too high) detected at line 21
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 21--21
+[]| [][]  
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [10
 
  <C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/graphics/paranoid
-.jpg>] <graphics/schizoid.jpg, id=600, 286.06876pt x 191.71625pt>
+.jpg>] <graphics/schizoid.jpg, id=611, 286.06876pt x 191.71625pt>
 File: graphics/schizoid.jpg Graphic file (type jpg)
 
 <use graphics/schizoid.jpg>
 Package pdftex.def Info: graphics/schizoid.jpg used on input line 21.
-(pdftex.def)             Requested size: 142.26378pt x 95.34302pt.
+(pdftex.def)             Requested size: 136.57288pt x 91.52837pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 21--21
-[][][]  
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 21--21
+[]| [][]  
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [11
 
  <C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/graphics/schizoid
-.jpg (PNG copy)>] <graphics/schizotypal.jpg, id=648, 101.178pt x 101.178pt>
+.jpg (PNG copy)>] <graphics/schizotypal.jpg, id=664, 101.178pt x 101.178pt>
 File: graphics/schizotypal.jpg Graphic file (type jpg)
 
 <use graphics/schizotypal.jpg>
 Package pdftex.def Info: graphics/schizotypal.jpg used on input line 21.
-(pdftex.def)             Requested size: 142.26378pt x 142.27191pt.
+(pdftex.def)             Requested size: 136.57288pt x 136.57974pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 21--21
-[][][]  
- []
-
-
-Overfull \vbox (58.47388pt too high) detected at line 21
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 21--21
+[]| [][]  
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [12
@@ -1409,80 +1393,76 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
  <C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/graphics/schizoty
 pal.jpg>])
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\content/slides/Ca
-t_Disorders_B.txt" <graphics/antisocial.jpg, id=696, 343.2825pt x 198.7425pt>
+t_Disorders_B.txt" <graphics/antisocial.jpg, id=717, 343.2825pt x 198.7425pt>
 File: graphics/antisocial.jpg Graphic file (type jpg)
 
 <use graphics/antisocial.jpg>
 Package pdftex.def Info: graphics/antisocial.jpg used on input line 22.
-(pdftex.def)             Requested size: 142.26378pt x 82.36136pt.
+(pdftex.def)             Requested size: 136.57288pt x 79.068pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 22--22
-[][][]  
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 22--22
+[]| [][]  
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [13
 
  <C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/graphics/antisoci
-al.jpg>] <graphics/borderline.jpg, id=747, 250.9375pt x 349.305pt>
+al.jpg>] <graphics/borderline.jpg, id=773, 250.9375pt x 349.305pt>
 File: graphics/borderline.jpg Graphic file (type jpg)
 
 <use graphics/borderline.jpg>
 Package pdftex.def Info: graphics/borderline.jpg used on input line 22.
-(pdftex.def)             Requested size: 142.26378pt x 198.03992pt.
+(pdftex.def)             Requested size: 136.57288pt x 190.1196pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 22--22
-[][][]  
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 22--22
+[]| [][]  
  []
 
 
-Overfull \vbox (34.48907pt too high) detected at line 22
+Overfull \vbox (10.48907pt too high) detected at line 22
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [14
 
  <C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/graphics/borderli
-ne.jpg>] <graphics/histrionic.jpg, id=796, 289.08pt x 438.63875pt>
+ne.jpg>] <graphics/histrionic.jpg, id=827, 289.08pt x 438.63875pt>
 File: graphics/histrionic.jpg Graphic file (type jpg)
 
 <use graphics/histrionic.jpg>
 Package pdftex.def Info: graphics/histrionic.jpg used on input line 22.
-(pdftex.def)             Requested size: 142.26378pt x 215.86519pt.
+(pdftex.def)             Requested size: 136.57288pt x 207.23112pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 22--22
-[][][]  
- []
-
-
-Overfull \vbox (1.13385pt too high) detected at line 22
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 22--22
+[]| [][]  
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [15
 
  <C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/graphics/histrion
-ic.jpg>] <graphics/narcissistic.jpg, id=844, 326.21875pt x 250.9375pt>
+ic.jpg>] <graphics/narcissistic.jpg, id=880, 326.21875pt x 250.9375pt>
 File: graphics/narcissistic.jpg Graphic file (type jpg)
 
 <use graphics/narcissistic.jpg>
 Package pdftex.def Info: graphics/narcissistic.jpg used on input line 22.
-(pdftex.def)             Requested size: 142.26378pt x 109.43643pt.
+(pdftex.def)             Requested size: 136.57288pt x 105.05989pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 22--22
-[][][]  
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 22--22
+[]| [][]  
  []
 
 
@@ -1491,7 +1471,7 @@ Overfull \vbox (31.33386pt too high) detected at line 22
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [16
@@ -1499,62 +1479,58 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
  <C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/graphics/narcissi
 stic.jpg>])
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\content/slides/Ca
-t_Disorders_C.txt" <graphics/avoidant.jpg, id=892, 401.5pt x 265.99374pt>
+t_Disorders_C.txt" <graphics/avoidant.jpg, id=933, 401.5pt x 265.99374pt>
 File: graphics/avoidant.jpg Graphic file (type jpg)
 
 <use graphics/avoidant.jpg>
 Package pdftex.def Info: graphics/avoidant.jpg used on input line 20.
-(pdftex.def)             Requested size: 142.26378pt x 94.25188pt.
+(pdftex.def)             Requested size: 136.57288pt x 90.48131pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 20--20
-[][][]  
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 20--20
+[]| [][]  
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [17
 
  <C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/graphics/avoidant
-.jpg>] <graphics/dependent.jpg, id=942, 360.34625pt x 330.23375pt>
+.jpg>] <graphics/dependent.jpg, id=988, 360.34625pt x 330.23375pt>
 File: graphics/dependent.jpg Graphic file (type jpg)
 
 <use graphics/dependent.jpg>
 Package pdftex.def Info: graphics/dependent.jpg used on input line 20.
-(pdftex.def)             Requested size: 142.26378pt x 130.37286pt.
+(pdftex.def)             Requested size: 136.57288pt x 125.15755pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 20--20
-[][][]  
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 20--20
+[]| [][]  
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [18
 
  <C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/graphics/dependen
-t.jpg>] <graphics/obsessive.jpg, id=990, 273.02pt x 335.2525pt>
+t.jpg>] <graphics/obsessive.jpg, id=1041, 273.02pt x 335.2525pt>
 File: graphics/obsessive.jpg Graphic file (type jpg)
 
 <use graphics/obsessive.jpg>
 Package pdftex.def Info: graphics/obsessive.jpg used on input line 20.
-(pdftex.def)             Requested size: 142.26378pt x 174.69038pt.
+(pdftex.def)             Requested size: 136.57288pt x 167.70256pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 20--20
-[][][]  
- []
-
-
-Overfull \vbox (10.47388pt too high) detected at line 20
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 20--20
+[]| [][]  
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [19
@@ -1562,7 +1538,7 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
  <C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/graphics/obsessiv
 e.jpg>])
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\content/slides/Ca
-t_Disorders_NOS.txt" <graphics/gage.jpg, id=1039, 216.81pt x 314.8563pt>
+t_Disorders_NOS.txt" <graphics/gage.jpg, id=1095, 216.81pt x 314.8563pt>
 File: graphics/gage.jpg Graphic file (type jpg)
 
 <use graphics/gage.jpg>
@@ -1579,13 +1555,13 @@ Overfull \vbox (12.06377pt too high) detected at line 17
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [20
 
  <C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/graphics/gage.jpg
->] <graphics/gage2.jpg, id=1088, 194.8881pt x 331.2375pt>
+>] <graphics/gage2.jpg, id=1149, 194.8881pt x 331.2375pt>
 File: graphics/gage2.jpg Graphic file (type jpg)
 
 <use graphics/gage2.jpg>
@@ -1602,7 +1578,7 @@ Overfull \vbox (14.36203pt too high) detected at line 17
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [21
@@ -1610,7 +1586,7 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
  <C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/graphics/gage2.jp
 g>]
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [22
@@ -1620,21 +1596,19 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
 t_General.txt"
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
 disorders.vrb"
-LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 2.
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no ™ in font pplr7t!
 )
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [23
 
 ]
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [24
@@ -1642,7 +1616,7 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
 
 ]
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [25
@@ -1654,7 +1628,7 @@ t_Diag.txt"
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
 disorders.vrb")
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [26
@@ -1663,7 +1637,7 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
 disorders.vrb")
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [27
@@ -1672,7 +1646,7 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
 disorders.vrb")
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [28
@@ -1683,19 +1657,19 @@ t_Disorders.txt"
 File: graphics/antisocial.jpg Graphic file (type jpg)
  <use graphics/antisocial.jpg>
 Package pdftex.def Info: graphics/antisocial.jpg used on input line 20.
-(pdftex.def)             Requested size: 142.26378pt x 82.36136pt.
+(pdftex.def)             Requested size: 136.57288pt x 79.068pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 20--20
-[][][]  
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 20--20
+[]| [][]  
  []
 
 
-Overfull \vbox (64.28906pt too high) detected at line 20
+Overfull \vbox (40.28906pt too high) detected at line 20
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [29
@@ -1704,19 +1678,19 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
 File: graphics/avoidant.jpg Graphic file (type jpg)
  <use graphics/avoidant.jpg>
 Package pdftex.def Info: graphics/avoidant.jpg used on input line 20.
-(pdftex.def)             Requested size: 142.26378pt x 94.25188pt.
+(pdftex.def)             Requested size: 136.57288pt x 90.48131pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 20--20
-[][][]  
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 20--20
+[]| [][]  
  []
 
 
-Overfull \vbox (100.27386pt too high) detected at line 20
+Overfull \vbox (40.27386pt too high) detected at line 20
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [30
@@ -1725,93 +1699,41 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
 File: graphics/borderline.jpg Graphic file (type jpg)
  <use graphics/borderline.jpg>
 Package pdftex.def Info: graphics/borderline.jpg used on input line 20.
-(pdftex.def)             Requested size: 142.26378pt x 198.03992pt.
+(pdftex.def)             Requested size: 136.57288pt x 190.1196pt.
 
-Overfull \hbox (142.26378pt too wide) in paragraph at lines 20--20
-[][][]  
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 20--20
+[]| [][]  
  []
 
 
-Overfull \vbox (73.13385pt too high) detected at line 20
+Overfull \vbox (23.53384pt too high) detected at line 20
  []
 
 
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [31
 
-])
-Runaway argument?
-{Empirical Evidence 
-! Paragraph ended before \beamer@@@subsection was complete.
-<to be read again> 
-                   \par 
-l.190 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+]
+File: graphics/narcissistic.jpg Graphic file (type jpg)
+ <use graphics/narcissistic.jpg>
+Package pdftex.def Info: graphics/narcissistic.jpg used on input line 39.
+(pdftex.def)             Requested size: 136.57288pt x 105.05989pt.
+
+Overfull \hbox (113.8106pt too wide) in paragraph at lines 39--39
+[]| [][]  
+ []
 
 
-("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\content/slides/Di
-scussion.txt"
-("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
-disorders.vrb")
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+  [] [][][] [][][][][][][][][] [][][][][][][][][][] [][][][] [] []  
  []
 
 [32
 
-])
-("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\content/slides/Re
-ferences.txt"
-("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
-disorders.vrb")
-("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
-disorders.bbl")
-Overfull \hbox (26.69507pt too wide) has occurred while \output is active
-  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
- []
-
-[33
-
-])
-\tf@nav=\write6
-\tf@toc=\write7
-\tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
-
-("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
-disorders.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 202.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 202.
-Package rerunfilecheck Info: File `talk_personality_disorders.out' has not chan
-ged.
-(rerunfilecheck)             Checksum: DCC265D9AC26EE5B303DB7DA10556B55;816.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 202.
- ) 
-Here is how much of TeX's memory you used:
- 22503 strings out of 493921
- 455859 string characters out of 3147269
- 573398 words of memory out of 3000000
- 25111 multiletter control sequences out of 15000+200000
- 23903 words of font info for 68 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 56i,19n,69p,753b,1215s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
-palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
-8a.pfb>
-Output written on talk_personality_disorders.pdf (33 pages, 3700423 bytes).
-PDF statistics:
- 1750 PDF objects out of 2073 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 207 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+]
+File: graphics/obsessive.jpg Graphic file (type jpg)
+ <use graphics/obsessive.jpg>
+Package pdftex.def Info: graphics/obsessive.jpg used on input lin

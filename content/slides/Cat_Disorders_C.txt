@@ -1,20 +1,20 @@
 \frame{
 \frametitle{Cluster C (Worried)}
 \begin{columns}
-\begin{column}{5cm}
+\begin{column}{6cm}
 \begin{itemize}
 \item<1->{Avoidant personality disorder}
-\alt<1>{\begin{itemize}\item is characterized by ``social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation''\citep{dsm2013diagnostic}.\end{itemize}}{\item<2-> Dependent personality disorder}
-\alt<2>{\begin{itemize}\item is `` a pattern of submissive and clinging behavior related to an excessive need to be taken care of.''\end{itemize}}{\item<3->{Obsessive-compulsive personality disorder}}
+\alt<1>{\begin{itemize}\item is characterized by ``social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation.''\end{itemize}}{\item<2-> Dependent personality disorder}
+\alt<2>{\begin{itemize}\item is ``a pattern of submissive and clinging behavior related to an excessive need to be taken care of.''\end{itemize}}{\item<3->{Obsessive-compulsive personality disorder}}
 \alt<3>{\begin{itemize}\item  ``is a pattern of preoccupation with orderliness, perfectionism, and control.''\end{itemize}}{ }
 \end{itemize}
 \vspace{3cm} 
 \end{column}
-\begin{column}{5cm}
+\begin{column}{4cm}
 \begin{overprint}
-\includegraphics<1>[width=\textwidth]{avoidant}
-\includegraphics<2>[width=\textwidth]{dependent}
-\includegraphics<3>[width=\textwidth]{obsessive}
+\hspace*{-.8cm}\includegraphics<1>[width=1.2\textwidth]{avoidant}
+\includegraphics<2>[width=1.2\textwidth]{dependent}
+\includegraphics<3>[width=1.2\textwidth]{obsessive}
 \end{overprint}
 \end{column}
 \end{columns}}

@@ -1,7 +1,7 @@
 \frame{
 \frametitle{Dimensional Personality Disorders}
 \begin{columns}
-\begin{column}{5cm}
+\begin{column}{6cm}
 \begin{itemize}
 \item<1->{Antisocial personality disorder}
 \alt<1>{\begin{itemize}\item typical features include ``a failure to conform to lawful and ethical behavior, and \item an egocentric, callous lack of concern for others, \item accompanied by deceitfulness, irresponsibility, \item manipulativeness, and/or risk taking.''\end{itemize}}{\item<2-> Avoidant personality disorder}
@@ -10,11 +10,44 @@
 \end{itemize}
 \vspace{3cm} 
 \end{column}
-\begin{column}{5cm}
+\begin{column}{4cm}
 \begin{overprint}
-\includegraphics<1>[width=\textwidth]{antisocial}
-\includegraphics<2>[width=\textwidth]{avoidant}
-\includegraphics<3>[width=\textwidth]{borderline}
+\hspace*{-.8cm}\includegraphics<1>[width=1.2\textwidth]{antisocial}
+\includegraphics<2>[width=1.2\textwidth]{avoidant}
+\includegraphics<3>[width=1.2\textwidth]{borderline}
 \end{overprint}
+\end{column}
+\end{columns}}
+\frame{
+\frametitle{Dimensional Personality Disorders}
+\begin{columns}
+\begin{column}{6cm}
+\begin{itemize}
+\item<1->{Narcissistic personality disorder}
+\alt<1>{\begin{itemize}\item typical features include ``variable and vulnerable self-esteem, \item with attempts at regulation through attention and approval seeking, and either 
+\item overt or covert grandiosity.''\end{itemize}}{\item<2-> Obsessive-compulsive personality disorder}
+\alt<2>{\begin{itemize}\item features include ``difficulties in establishing and sustaining close relationships, \item associated with rigid perfectionism, inflexibility, and \item restricted emotional expression.''\end{itemize}}{ }
+\end{itemize}
+\vspace{3cm} 
+\end{column}
+\begin{column}{4cm}
+\begin{overprint}
+\hspace*{-.8cm}\includegraphics<1>[width=1.2\textwidth]{narcissistic}
+\includegraphics<2>[width=1.2\textwidth]{obsessive}
+\end{overprint}
+\end{column}
+\end{columns}}
+
+\frame{
+\frametitle{Dimensional Personality Disorders}
+\begin{columns}
+\begin{column}{6cm}
+\begin{itemize} \item Schizotypal personality disorder
+\begin{itemize}\item features are ``impairments in the capacity for social and close relationships, and \item eccentricities in cognition, perception, and behavior that are associated with \item distorted self-image and incoherent personal goals and \item accompanied by suspiciousness and restricted emotional expression.''\end{itemize}
+\end{itemize}
+\vspace{3cm} 
+\end{column}
+\begin{column}{4cm}
+\hspace*{-.8cm}\includegraphics[width=1.2\textwidth]{schizotypal}
 \end{column}
 \end{columns}}

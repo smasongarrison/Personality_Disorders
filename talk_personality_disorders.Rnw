@@ -160,8 +160,11 @@ source(paste0(file_drive,"Dropbox/Work/Templates/R/Functions/Mason_Functions.R")
 %                Categorical vs. Continous
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Categorical vs. Dimensional}
-\subsection{Similarities}
-\subsection{Differences}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                Borderline
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Borderline Personality Disorder}\input{content/slides/borderline.txt}
 \subsection{Empirical Evidence
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

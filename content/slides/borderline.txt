@@ -1,0 +1,17 @@
+\begin{frame}[fragile,allowframebreaks]{Borderline Personality Disorder}
+\href{https://youtu.be/_-nQ7qWO6Ts?t=4m44s}{Girl Interrupted Cinema Example}\\~\\
+Categorical Diagnositic Criteria \\~\\
+\begin{itemize} \item A pervasive  pattern  of instability  of  interpersonal  relationships,  self-image,  and  affects, 
+and marked impulsivity, beginning by early adulthood and present in a variety of contexts, as indicated by five (or more) of the following:\begin{enumerate}
+\item Frantic efforts to avoid real or imagined abandonment. (Note:  Do not include suicidal or self-mutilating behavior covered in Criterion 5.)
+\item A pattern of unstable and intense interpersonal relationships characterized by alternating between extremes of idealization and devaluation.
+\item Identity disturbance: markedly and persistently unstable self-image or sense of self.
+\item Impulsivity in at least two areas that are potentially self-damaging (e.g., spending, sex, substance abuse, reckless driving, binge eating). (Note: Do not include suicidal or self-mutilating behavior covered in Criterion 5.)
+\item  Recurrent suicidal behavior, gestures, or threats, or self-mutilating behavior.
+\item Affective instability due to a marked reactivity of mood (e.g., intense episodic dysphoria, 
+irritability, or anxiety usually lasting a few hours and only rarely more than a few days).
+\item Chronic feelings of emptiness.
+\item Inappropriate,  intense anger or difficulty controlling  anger (e.g.,  frequent displays of temper, constant anger, recurrent physical fights).
+\item Transient, stress-related paranoid ideation or severe dissociative symptoms.\end{enumerate}
+\end{itemize}
+\end{frame}
