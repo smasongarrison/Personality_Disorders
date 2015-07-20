@@ -31,8 +31,10 @@ Adaptation of one's behavior to the actual or perceived interests and desires of
 Persistent or frequent angry feelings; anger or irritability in response to minor slights and insults; mean, nasty, or vengeful behavior. See also Antagonism.
 \item Perseveration.\\
 Persistence at tasks or in a particular way of doing things long after the behavior has ceased to be functional or effective; continuance of the same behavior despite repeated failures or clear reasons for stopping.
-\item Depressivity. See Detachment.
-\item Suspiciousness. See Detachment.
+\item Depressivity.\\
+See Detachment.
+\item Suspiciousness.\\
+See Detachment.
 \item Separation insecurity.\\
 The \textbf{lack of} this facet characterizes low levels of Negative Affectivity. See Detachment for definition of this facet.\end{itemize}\pagebreak
 
@@ -63,7 +65,8 @@ Believing that one is superior to others and deserves special treatment; self-ce
 Engaging in behavior designed to attract notice and to make oneself the focus of others' attention and admiration.
 \item Callousness.\\
 Lack of concern for the feelings or problems of others; lack of guilt or remorse about the negative or harmful effects of one's actions on others.
-\item Hostility. See Negative Affectivity.\end{itemize}\pagebreak
+\item Hostility.\\
+See Negative Affectivity.\end{itemize}\pagebreak
 
 \item Disinhibition (vs. Conscientiousness), \\
 Orientation toward immediate gratification, leading to impulsive behavior driven by current thoughts, feelings, and external stimuli, without regard for past learning or consideration of future consequences.
@@ -77,7 +80,6 @@ Difficulty concentrating and focusing on tasks; attention is easily diverted by 
 Engagement in dangerous, risky, and potentially self-damaging activities, unnecessarily and without regard to consequences; lack of concern for one's limitations and denial of the reality of personal danger; reckless pursuit of goals regardless of the level of risk involved.
 \item Rigid perfectionism (lack of).\\
 Rigid insistence on everything being flawless, perfect, and without errors or faults, including one's own and others' performance; sacrificing of timeliness to ensure correctness in every detail; believing that there is only one right way to do things; difficulty changing ideas and/or viewpoint; preoccupation with details, organization, and order. The lack of this facet characterizes low  levels of Disinhibition.\end{itemize}\pagebreak
-
 \item Psychoticism (vs. Lucidity).\\
 Exhibiting a wide range of culturally incongruent odd, eccentric, or unusual behaviors and cognitions, including both process (e.g., perception, dissociation) and content (e.g., beliefs).
 \begin{itemize}\item Unusual beliefs and experiences.\\
