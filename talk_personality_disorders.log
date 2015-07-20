@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  19 JUL 2015 22:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  20 JUL 2015 08:56
 entering extended mode
 **talk_personality_disorders.tex
 
@@ -1207,7 +1207,7 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 14.
 
 
-Overfull \vbox (6.3046pt too high) detected at line 14
+Overfull \vbox (5.22873pt too high) detected at line 14
  []
 
 
@@ -1739,10 +1739,10 @@ ged.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 202.
  ) 
 Here is how much of TeX's memory you used:
- 22501 strings out of 493921
- 456000 string characters out of 3147269
- 573602 words of memory out of 3000000
- 25111 multiletter control sequences out of 15000+200000
+ 22491 strings out of 493921
+ 455787 string characters out of 3147269
+ 573315 words of memory out of 3000000
+ 25101 multiletter control sequences out of 15000+200000
  23903 words of font info for 68 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  56i,19n,69p,753b,1215s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1753,7 +1753,7 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
 nts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on talk_personality_disorders.pdf (31 pages, 3680000 bytes).
+Output written on talk_personality_disorders.pdf (31 pages, 3679624 bytes).
 PDF statistics:
  1653 PDF objects out of 1728 (max. 8388607)
  77 named destinations out of 1000 (max. 500000)
