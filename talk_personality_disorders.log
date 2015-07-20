@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  20 JUL 2015 08:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  20 JUL 2015 09:13
 entering extended mode
 **talk_personality_disorders.tex
 
@@ -1207,7 +1207,7 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 14.
 
 
-Overfull \vbox (5.22873pt too high) detected at line 14
+Overfull \vbox (5.28307pt too high) detected at line 14
  []
 
 
@@ -1241,7 +1241,17 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 3.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+)
+! Undefined control sequence.
+l.3 ...cal Manual of Mental Disorders (\citealyear
+                                                  {dsm2013diagnostic}; DSM-5...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
  []
@@ -1344,7 +1354,7 @@ Overfull \hbox (142.26378pt too wide) in paragraph at lines 21--21
  []
 
 
-Overfull \vbox (28.28906pt too high) detected at line 21
+Overfull \vbox (4.28906pt too high) detected at line 21
  []
 
 
@@ -1408,10 +1418,6 @@ Package pdftex.def Info: graphics/antisocial.jpg used on input line 22.
 
 Overfull \hbox (142.26378pt too wide) in paragraph at lines 22--22
 [][][]  
- []
-
-
-Overfull \vbox (22.48907pt too high) detected at line 22
  []
 
 
@@ -1505,10 +1511,6 @@ Overfull \hbox (142.26378pt too wide) in paragraph at lines 20--20
  []
 
 
-Overfull \vbox (31.20172pt too high) detected at line 20
- []
-
-
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
  []
@@ -1572,7 +1574,7 @@ Overfull \hbox (142.26378pt too wide) in paragraph at lines 17--17
  []
 
 
-Overfull \vbox (36.06377pt too high) detected at line 17
+Overfull \vbox (12.06377pt too high) detected at line 17
  []
 
 
@@ -1595,7 +1597,7 @@ Overfull \hbox (142.26378pt too wide) in paragraph at lines 17--17
  []
 
 
-Overfull \vbox (36.06377pt too high) detected at line 17
+Overfull \vbox (14.36203pt too high) detected at line 17
  []
 
 
@@ -1678,13 +1680,67 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
 ])
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\content/slides/Al
 t_Disorders.txt"
-("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\talk_personality_
-disorders.vrb")
+File: graphics/antisocial.jpg Graphic file (type jpg)
+ <use graphics/antisocial.jpg>
+Package pdftex.def Info: graphics/antisocial.jpg used on input line 20.
+(pdftex.def)             Requested size: 142.26378pt x 82.36136pt.
+
+Overfull \hbox (142.26378pt too wide) in paragraph at lines 20--20
+[][][]  
+ []
+
+
+Overfull \vbox (64.28906pt too high) detected at line 20
+ []
+
+
 Overfull \hbox (26.69507pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
  []
 
 [29
+
+]
+File: graphics/avoidant.jpg Graphic file (type jpg)
+ <use graphics/avoidant.jpg>
+Package pdftex.def Info: graphics/avoidant.jpg used on input line 20.
+(pdftex.def)             Requested size: 142.26378pt x 94.25188pt.
+
+Overfull \hbox (142.26378pt too wide) in paragraph at lines 20--20
+[][][]  
+ []
+
+
+Overfull \vbox (100.27386pt too high) detected at line 20
+ []
+
+
+Overfull \hbox (26.69507pt too wide) has occurred while \output is active
+  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+ []
+
+[30
+
+]
+File: graphics/borderline.jpg Graphic file (type jpg)
+ <use graphics/borderline.jpg>
+Package pdftex.def Info: graphics/borderline.jpg used on input line 20.
+(pdftex.def)             Requested size: 142.26378pt x 198.03992pt.
+
+Overfull \hbox (142.26378pt too wide) in paragraph at lines 20--20
+[][][]  
+ []
+
+
+Overfull \vbox (73.13385pt too high) detected at line 20
+ []
+
+
+Overfull \hbox (26.69507pt too wide) has occurred while \output is active
+  [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
+ []
+
+[31
 
 ])
 Runaway argument?
@@ -1707,7 +1763,7 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
  []
 
-[30
+[32
 
 ])
 ("C:\Dropbox\Work\Class\UBC\Personality\Personality Disorders\content/slides/Re
@@ -1720,7 +1776,7 @@ Overfull \hbox (26.69507pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][][][] [][][][][][][][] [] [] []  
  []
 
-[31
+[33
 
 ])
 \tf@nav=\write6
@@ -1735,14 +1791,14 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 202.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 202.
 Package rerunfilecheck Info: File `talk_personality_disorders.out' has not chan
 ged.
-(rerunfilecheck)             Checksum: 09AD905E550BB52D45521EEF6E4CAC6C;816.
+(rerunfilecheck)             Checksum: DCC265D9AC26EE5B303DB7DA10556B55;816.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 202.
  ) 
 Here is how much of TeX's memory you used:
- 22491 strings out of 493921
- 455787 string characters out of 3147269
- 573315 words of memory out of 3000000
- 25101 multiletter control sequences out of 15000+200000
+ 22503 strings out of 493921
+ 455859 string characters out of 3147269
+ 573398 words of memory out of 3000000
+ 25111 multiletter control sequences out of 15000+200000
  23903 words of font info for 68 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  56i,19n,69p,753b,1215s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1753,9 +1809,9 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
 nts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on talk_personality_disorders.pdf (31 pages, 3679624 bytes).
+Output written on talk_personality_disorders.pdf (33 pages, 3700423 bytes).
 PDF statistics:
- 1653 PDF objects out of 1728 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
+ 1750 PDF objects out of 2073 (max. 8388607)
+ 81 named destinations out of 1000 (max. 500000)
  207 words of extra memory for PDF output out of 10000 (max. 10000000)
 

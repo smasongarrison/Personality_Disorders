@@ -8,7 +8,7 @@
 \beamer@subsectionintoc {3}{1}{General Criteria}{23}{0}{3}
 \beamer@subsectionintoc {3}{2}{Diagnosis}{26}{0}{3}
 \beamer@subsectionintoc {3}{3}{Disorders}{29}{0}{3}
-\beamer@sectionintoc {4}{Categorical vs. Dimensional}{30}{0}{4}
-\beamer@subsectionintoc {4}{1}{Similarities}{30}{0}{4}
-\beamer@subsectionintoc {4}{2}{Differences}{30}{0}{4}
-\beamer@sectionintoc {5}{Discussion}{30}{0}{5}
+\beamer@sectionintoc {4}{Categorical vs. Dimensional}{32}{0}{4}
+\beamer@subsectionintoc {4}{1}{Similarities}{32}{0}{4}
+\beamer@subsectionintoc {4}{2}{Differences}{32}{0}{4}
+\beamer@sectionintoc {5}{Discussion}{32}{0}{5}

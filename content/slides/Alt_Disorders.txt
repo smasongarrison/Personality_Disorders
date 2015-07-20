@@ -1,16 +1,20 @@
-\begin{frame}[fragile]{Dimensional Personality Disorders}
-
+\frame{
+\frametitle{Dimensional Personality Disorders}
+\begin{columns}
+\begin{column}{5cm}
 \begin{itemize}
-\item Cluster A (Weird)\\\begin{itemize}\item Paranoid personality disorder
-\item Schizoid personality disorder
-\item Schizotypal personality disorder\end{itemize}
-\item Cluster B (Wild)\\\begin{itemize}\item Antisocial personality disorder
-\item Borderline personality disorder
-\item Histrionic personality disorder
-\item Narcissistic personality disorder\end{itemize}
-\item Cluster C (Worried)\\\begin{itemize}\item Avoidant personality disorder
-\item Dependent personality disorder
-\item Obsessive-compulsive personality disorder
-\end{itemize}\item Personality disorder not otherwise specified
+\item<1->{Antisocial personality disorder}
+\alt<1>{\begin{itemize}\item typical features include ``a failure to conform to lawful and ethical behavior, and \item an egocentric, callous lack of concern for others, \item accompanied by deceitfulness, irresponsibility, \item manipulativeness, and/or risk taking.''\end{itemize}}{\item<2-> Avoidant personality disorder}
+\alt<2>{\begin{itemize}\item features include ``avoidance of social situations and inhibition in interpersonal relationships \item related to feelings of ineptitude and inadequacy, \item anxious preoccupation with negative evaluation and rejection, and \item fears of ridicule or embarrassment.''\end{itemize}}{\item<3-> Borderline personality disorder}
+\alt<3>{\begin{itemize}\item features are ``instability of self-image, personal goals, interpersonal relationships, and affects, \item accompanied by impulsivity, risk taking, and/or hostility.''\end{itemize}}{ }
 \end{itemize}
-\end{frame}
+\vspace{3cm} 
+\end{column}
+\begin{column}{5cm}
+\begin{overprint}
+\includegraphics<1>[width=\textwidth]{antisocial}
+\includegraphics<2>[width=\textwidth]{avoidant}
+\includegraphics<3>[width=\textwidth]{borderline}
+\end{overprint}
+\end{column}
+\end{columns}}
