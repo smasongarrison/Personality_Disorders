@@ -7,7 +7,7 @@
 \beamer@sectionintoc {3}{Dimensional Personality Disorders}{23}{0}{3}
 \beamer@subsectionintoc {3}{1}{General Criteria}{23}{0}{3}
 \beamer@subsectionintoc {3}{2}{Diagnosis}{26}{0}{3}
-\beamer@subsectionintoc {3}{3}{Disorders}{29}{0}{3}
-\beamer@sectionintoc {4}{Categorical vs. Dimensional}{35}{0}{4}
-\beamer@subsectionintoc {4}{1}{Borderline Personality Disorder}{35}{0}{4}
-\beamer@sectionintoc {5}{Discussion}{38}{0}{5}
+\beamer@subsectionintoc {3}{3}{Disorders}{39}{0}{3}
+\beamer@sectionintoc {4}{Categorical vs. Dimensional}{45}{0}{4}
+\beamer@subsectionintoc {4}{1}{Borderline Personality Disorder}{45}{0}{4}
+\beamer@sectionintoc {5}{Discussion}{52}{0}{5}

@@ -12,7 +12,80 @@ Disturbances in self and interpersonal functioning are the core of personality p
 \end{frame}
 
 \begin{frame}[fragile,allowframebreaks]{\small Criterion B: Pathological Personality Traits}
-\begin{itemize}\item Five broad domains: \begin{itemize} \item Negative Affectivity (vs. Emotional Stability), \item Detachment (vs. Extraversion), 
-\item Antagonism (vs. Agreeableness), \item Disinhibition (vs. Conscientiousness), and \item Psychoticism (vs. Lucidity).\end{itemize} 
-\item Each domain has 5 facets, based on a review of existing trait models and iterative empirical research on clinical samples.\end{itemize}
+\begin{itemize}\item Five broad domains: \begin{itemize} \item Negative Affectivity (vs. Emotional Stability), \item Detachment (vs. Extraversion), \item Antagonism (vs. Agreeableness), \item Disinhibition (vs. Conscientiousness), and \item Psychoticism (vs. Lucidity).\end{itemize} 
+\item There are 25 facets, based on a review of existing trait models and iterative empirical research on clinical samples.\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile,allowframebreaks]{\small PID-5}
+The Personality Inventory for DSM-5 (PID-5) was designed to operationalize this personality model.
+\begin{itemize} \item Negative Affectivity (vs. Emotional Stability),\\
+Frequent and intense experiences of high levels of a wide range of negative emotions (e.g., anxiety, depression, guilt/ shame, worry, anger) and their behavioral (e.g., self-harm) and interpersonal (e.g., dependency) manifestations.\begin{itemize} \item Emotional lability.\\
+Instability of emotional experiences and mood; emotions that are easily aroused, intense, and/or out of proportion to events and circumstances.
+\item Anxiousness.\\
+Feelings of nervousness, tenseness, or panic in reaction to diverse situations; frequent worry about the negative effects of past unpleasant experiences and future negative possibilities; feeling fearful and apprehensive about uncertainty; expecting the worst to happen.
+\item Separation insecurity.\\
+Fears of being alone due to rejection by—and/or separation from -- significant others, based in a lack of confidence in one's ability to care for oneself, both physically and emotionally.
+\item Submissiveness.\\
+Adaptation of one's behavior to the actual or perceived interests and desires of others even when doing so is antithetical to one's own interests, needs, or desires.
+\item Hostility.\\
+Persistent or frequent angry feelings; anger or irritability in response to minor slights and insults; mean, nasty, or vengeful behavior. See also Antagonism.
+\item Perseveration.\\
+Persistence at tasks or in a particular way of doing things long after the behavior has ceased to be functional or effective; continuance of the same behavior despite repeated failures or clear reasons for stopping.
+\item Depressivity. See Detachment.
+\item Suspiciousness. See Detachment.
+\item Separation insecurity.\\
+The \textbf{lack of} this facet characterizes low levels of Negative Affectivity. See Detachment for definition of this facet.\end{itemize}\\~\\
+
+\item Detachment (vs. Extraversion),\\
+Avoidance of socioemotional experience, including both withdrawal from interpersonal interactions (ranging from casual, daily interactions to friendships to intimate relationships) and restricted affective experience and expression, particularly limited hedonic capacity.
+\begin{itemize}\item Withdrawal.\\
+Preference for being alone to being with others; reticence in social situations; avoidance of social contacts and activity; lack of initiation of social contact.
+\item Intimacy avoidance.\\
+Avoidance of close or romantic relationships, interpersonal attachments, and intimate sexual relationships.
+\item Anhedonia.\\
+Lack of enjoyment from, engagement in, or energy for life's experiences; deficits in the capacity to feel pleasure and take interest in things.
+\item Depressivity.\\
+Feelings of being down, nüserable, and/or hopeless; difficulty recovering from such moods; pessimism about the future; pervasive shame and/or guilt; feelings of inferior self-worth; thoughts of suicide and suicidal behavior.
+\item Restricted affectivity.\\
+Little reaction to emotionally arousing situations; constricted emotional experience and expression; indifference and aloofness in normatively engaging situations.
+\item Suspiciousness.\\
+Expectations of -- and sensitivity to -- signs of intepersonal illintent or harm; doubts about loyalty and fidelity of others; feelings of being mistreated, used, and/or persecuted by others.\end{itemize}\\~\\
+
+\item Antagonism (vs. Agreeableness),\\ 
+Behaviors that put the individual at odds with other people, including an exaggerated sense of self-importance and a concomitant expectation of special treatment, as well as a callous antipathy toward others, encompassing both an unawareness of others' needs and feelings and a readiness to use others in the service of self-enhancement.
+\begin{itemize}\item Manipulativeness.\\
+Use of subterfuge to influence or control others; use of seduction, charm, glibness, or ingratiation to achieve one's ends.
+\item Deceitfulness.\\
+Dishonesty and fraudulence; misrepresentation of self; embellishment or fabrication when relating events.
+\item Grandiosity.\\
+Believing that one is superior to others and deserves special treatment; self-centeredness; feelings of entitlement; condescension toward others.
+\item Attention seeking.\\
+Engaging in behavior designed to attract notice and to make oneself the focus of others' attention and admiration.
+\item Callousness.\\
+Lack of concern for the feelings or problems of others; lack of guilt or remorse about the negative or harmful effects of one's actions on others.
+\item Hostility. See Negative Affectivity.\end{itemize}\\~\\
+
+\item Disinhibition (vs. Conscientiousness), \\
+Orientation toward immediate gratification, leading to impulsive 
+behavior driven by current thoughts, feelings, and external stimuli, without regard for past learning or consideration of future consequences.
+\begin{itemize}\item Irresponsibility.\\
+Disregard for -- and failure to honor -- financial and other obligations or commitments; lack of respect for -- and lack of follow-through on -- agreements and promises; carelessness with others' property.
+\item Impulsivity.\\
+Acting on the spur of the moment in response to immediate stimuli; acting on a momentary basis without a plan or consideration of outcomes; difficulty establishing and following plans; a sense of urgency and self-harming behavior under emotional distress.
+\item Distractibility.\\
+Difficulty concentrating and focusing on tasks; attention is easily diverted by extraneous stimuli; difficulty maintaining goal-focused behavior, including both planning and completing tasks.
+\item Risk taking.\\
+Engagement in dangerous, risky, and potentially self-damaging activities, unnecessarily and without regard to consequences; lack of concern for one's limitations and denial of the reality of personal danger; reckless pursuit of goals regardless of the level of risk involved.
+\item Rigid perfectionism (lack of).\\
+Rigid insistence on everything being flawless, perfect, and without errors or faults, including one's own and others' performance; sacrificing of timeliness to ensure correctness in every detail; believing that there is only one right way to do things; difficulty changing ideas and/or viewpoint; preoccupation with details, organization, and order. The lack of this facet characterizes low  levels of Disinhibition.\end{itemize}\\~\\
+
+\item Psychoticism (vs. Lucidity).
+Exhibiting a wide range of culturally incongruent odd, eccentric, or unusual behaviors and cognitions, including both process (e.g., perception, dissociation) and content (e.g., beliefs).
+\begin{itemize}\item Unusual beliefs and experiences.\\
+Belief that one has unusual abilities, such as mind reading, telekinesis, thought-action fusion, unusual experiences of reality, including hallucination-like experiences.
+\item Eccentricity.\\
+Odd, unusual, or bizarre behavior, appearance, and/or speech; having strange and unpredictable thoughts; saying unusual or inappropriate things.
+\item Cognitive and perceptual dysregulation.\\
+Odd or unusual thought processes and experiences, including depersonalization, derealization, and dissociative experiences; mixed sleep-wake state experiences; thought-control experiences.\end{itemize}
+\end{itemize}
 \end{frame}

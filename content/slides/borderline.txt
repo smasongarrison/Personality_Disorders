@@ -1,17 +1,32 @@
 \begin{frame}[fragile,allowframebreaks]{Borderline Personality Disorder}
-\href{https://youtu.be/_-nQ7qWO6Ts?t=4m44s}{Girl Interrupted Cinema Example}\\~\\
-Categorical Diagnositic Criteria \\~\\
+\href{https://youtu.be/_-nQ7qWO6Ts?t=4m45s}{\underline{Girl Interrupted Video Example}}\\~\\
+Categorical Diagnositic Criteria\\
 \begin{itemize} \item A pervasive  pattern  of instability  of  interpersonal  relationships,  self-image,  and  affects, 
-and marked impulsivity, beginning by early adulthood and present in a variety of contexts, as indicated by five (or more) of the following:\begin{enumerate}
+and marked impulsivity, beginning by early adulthood and present in a variety of contexts, as indicated by \textbf{five (or more)} of the following:\begin{enumerate}
 \item Frantic efforts to avoid real or imagined abandonment. (Note:  Do not include suicidal or self-mutilating behavior covered in Criterion 5.)
 \item A pattern of unstable and intense interpersonal relationships characterized by alternating between extremes of idealization and devaluation.
 \item Identity disturbance: markedly and persistently unstable self-image or sense of self.
 \item Impulsivity in at least two areas that are potentially self-damaging (e.g., spending, sex, substance abuse, reckless driving, binge eating). (Note: Do not include suicidal or self-mutilating behavior covered in Criterion 5.)
 \item  Recurrent suicidal behavior, gestures, or threats, or self-mutilating behavior.
-\item Affective instability due to a marked reactivity of mood (e.g., intense episodic dysphoria, 
-irritability, or anxiety usually lasting a few hours and only rarely more than a few days).
+\item Affective instability due to a marked reactivity of mood (e.g., intense episodic dysphoria, irritability, or anxiety usually lasting a few hours and only rarely more than a few days).
 \item Chronic feelings of emptiness.
 \item Inappropriate,  intense anger or difficulty controlling  anger (e.g.,  frequent displays of temper, constant anger, recurrent physical fights).
 \item Transient, stress-related paranoid ideation or severe dissociative symptoms.\end{enumerate}
-\end{itemize}
+\end{itemize}\\~\\
+Dimensional Diagnositic Criteria\\
+\begin{itemize} \item Moderate or greater impairment in personality functioning, manifested by characteristic
+difficulties in \textbf{two or more} of the following four areas: \begin{enumerate}\item Identity:  Markedly impoverished,  poorly developed,  or unstable self-image, often associated with excessive self-criticism; chronic feelings of emptiness; dissociative states under stress.
+\item Self-direction: Instability in goals, aspirations, values, or career plans.
+\item Empathy: Compromised ability to recognize the feelings and needs of others associated with inteφersonal hypersensitivity (i.e., prone to feel slighted or insulted); perceptions of others selectively biased toward negative attributes or vulnerabilities.
+\item Intimacy: Intense, unstable, and conflicted close relationships, marked by mistrust, neediness, and anxious preoccupation with real or imagined abandonment; close relationships often viewed in extremes of idealization and devaluation and alternating between overinvolvement and withdrawal.\end{enumerate}
+\item  \textbf{Four or more} of the following seven pathological personality traits, at least one of which must be \textbf{(5) Impulsivity, (6) Risk taking, or (7) Hostility}:\beng{enumerate}
+\item Emotional lability (an aspect of Negative Affectivity):  Unstable emotional experiences and frequent  mood  changes;  emotions that are  easily aroused,  intense, and/or out of proportion to events and circumstances.
+\item Anxiousness  (an  aspect  of  Negative  Affectivity):  Intense  feelings  of  nervousness, tenseness, or panic, often in reaction to interpersonal stresses; worry about the negative effects of past unpleasant experiences and future negative possibilities;  feeling  fearful,  apprehensive,  or threatened  by  uncertainty;  fears  of  falling apart or losing control.
+\item Separation insecurity (an aspect of Negative Affectivity): Fears of rejection by -— and/or separation from—significant others, associated with fears of excessive dependency and complete loss of autonomy.
+\item Depressivity (an aspect of Negative Affectivity): Frequent feelings of being down, miserable,  and/or  hopeless;  difficulty  recovering  from  such  moods;  pessimism about the future;  pervasive shame; feelings of inferior self-worth; thoughts of suicide and suicidal behavior.
+\item Impulsivity (an aspect of Disiniiibition): Acting on the spur of the moment in response to immediate stimuli; acting on a momentary basis without a plan or consideration of outcomes; difficulty establishing or following plans; a sense of urgency and self-harming behavior under emotional distress.
+\item Risk taking (an aspect of Disiniiibition): Engagement in dangerous, risky, and potentially  self-damaging  activities,  unnecessarily  and  without  regard  to  consequences;  lack of concern for one’s limitations and denial of the reality of personal danger.
+\item Hostility (an aspect of Antagonism): Persistent or frequent angry feelings; anger or irritability in response to minor slights and insults.\end{enumerate}
+\item Specifiers.  Trait and level of personality functioning specifiers may be used to record additional personality features that may be present in borderline personality disorder but are not required for the diagnosis.\end{itemize}\\~\\
+The median population prevalence of borderline personality disorder is estimated to be 1.6 percent but may be as high as 5.9 percent.
 \end{frame}
