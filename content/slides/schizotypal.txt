@@ -1,0 +1,34 @@
+\begin{frame}[fragile,allowframebreaks]{Schizotypal Personality Disorder}
+\href{https://youtu.be/H8PzoXVXMTk?t=49s}{\underline{Taxi Driver (1976). Video Example}}\\~\\
+Categorical Diagnositic Criteria\\ \nocite{Scorsese1976}
+\begin{itemize} \item  A pervasive  pattern  of social  and  interpersonal deficits  marked  by acute discomfort with, and reduced capacity for, close relationships as well as by cognitive or perceptual distortions and eccentricities of behavior, beginning by early adulthood and present in a variety of contexts, as indicated by \textbf{five (or more)} of the following:\begin{enumerate}\item  Ideas of reference (excluding delusions of reference).
+\item Odd  beliefs or magical thinking that  influences  behavior and  is inconsistent with subcultural  norms  (e.g.,  superstitiousness,  belief  in  clairvoyance,  telepathy,  or ``sixth sense'': in children and adolescents, bizarre fantasies or preoccupations).
+\item Unusual perceptual experiences, including bodily illusions.
+\item Odd thinking and speech (e.g., vague, circumstantial, metaphorical, overelaborate, or stereotyped).
+\item Suspiciousness or paranoid ideation.
+\item Inappropriate or constricted affect.
+\item Behavior or appearance that is odd, eccentric, or peculiar.
+\item Lack of close friends or confidants other than first-degree relatives.
+\item Excessive social anxiety that does not diminish with familiarity and tends to be associated with paranoid fears rather than negative judgments about self.
+\end{enumerate}
+\item  Does not occur exclusively during the course of schizophrenia,  a bipolar disorder or depressive  disorder  with  psychotic  features,  another  psychotic  disorder,  or  autism spectrum disorder.\end{itemize}\pagebreak
+Dimensional Diagnositic Criteria\\
+\begin{itemize} \item Moderate or greater impairment in personality functioning, manifested by characteristic difficulties in \textbf{two or more} of the following four areas: \begin{enumerate}
+\item Identity:  Confused  boundaries  between  self  and  others;  distorted  self-concept; emotional expression often not congruent with context or internal experience.
+\item  Self-direction: Unrealistic or incoherent goals; no clear set of internal standards.
+\item Empathy: Pronounced difficulty understanding impact of own behaviors on others; frequent misinterpretations of others' motivations and behaviors.
+\item Intimacy:  Marked impairments in developing close relationships, associated with mistrust and anxiety.
+\end{enumerate}
+\item  \textbf{Four or more} of the following seven pathological personality traits:
+\begin{enumerate}\item Cognitive and perceptual dysregulation  (an  aspect of Psychoticism):  Odd or unusual thought processes; vague, circumstantial, metaphorical, overelaborate, or stereotyped thought or speech; odd sensations in various sensory modalities.
+\item Unusual beliefs and experiences (an aspect of Psychoticism): Thought content and views of reality that are viewed by others as bizarre or idiosyncratic; unusual experiences of reality.
+\item Eccentricity (an  aspect of  Psychoticism):  Odd,  unusual,  or bizarre  behavior or appearance; saying unusual or inappropriate things.
+\item Restricted affectivity (an  aspect of  Detachment):  Little  reaction  to emotionally arousing situations; constricted emotional experience and expression; indifference or coldness.
+\item Withdrawal (an aspect of Detachment):  Preference for being alone to being with others; reticence in social situations; avoidance of social contacts and activity; lack of initiation of social contact.
+\item Suspiciousness  (an  aspect  of  Detachment):  Expectations  of -- and  heightened sensitivity to -- signs of interpersonal ill-intent or harm; doubts about loyalty and fidelity of others; feelings of persecution.\end{enumerate}
+\item Specifiers.\\
+Trait and personality functioning specifiers may be used to record additional personality features that may be present in schizotypal personality disorder but are not required for the diagnosis. 
+\end{itemize}\\~\\
+Reported rates range from 0.6 percent in Norwegian samples to 4.6 percent in a U.S. community sample. The prevalence of schizotypal personality disorder in clinical populations seems to be infrequent $\approx 1.9$ percent, with a 
+higher estimated prevalence in the general population (3.9 percent) found in the National Epidemiologic Survey on Alcohol and Related Conditions.
+\end{frame}

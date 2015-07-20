@@ -23,4 +23,74 @@ dsm2013diagnostic}%
 
 \PrintBackRefs{\CurrentBib}
 
+\bibitem [\protect \citeauthoryear {%
+Lenny%
+}{%
+Lenny%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+Lenny2011}
+\APACinsertmetastar {%
+Lenny2011}%
+\begin{APACrefauthors}%
+Lenny, A\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+\APACrefbtitle {{Cinema education: Personality disorders demonstrated in the
+  film}.} {{Cinema education: Personality disorders demonstrated in the film}.}
+\newblock
+\APACaddressPublisher{}{Youtube}.
+\newblock
+\begin{APACrefURL} \url{https://www.youtube.com/user/adammarklenny/videos}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mangold%
+}{%
+Mangold%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+Mangold1999}
+\APACinsertmetastar {%
+Mangold1999}%
+\begin{APACrefauthors}%
+Mangold, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+\APACrefbtitle {{Girl, Interrupted.}} {{Girl, Interrupted.}}
+\newblock
+\APACaddressPublisher{}{Columbia Pictures}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Scorsese%
+}{%
+Scorsese%
+}{%
+{\protect \APACyear {1976}}%
+}]{%
+Scorsese1976}
+\APACinsertmetastar {%
+Scorsese1976}%
+\begin{APACrefauthors}%
+Scorsese, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1976}{}{}.
+\newblock
+\APACrefbtitle {{Taxi Driver}.} {{Taxi Driver}.}
+\newblock
+\APACaddressPublisher{}{Columbia Pictures}.
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}

@@ -4,13 +4,13 @@ Within the Categorical Model,
 \item disorders fall within 10 distinct types,
 \item one either has the disorder or does not, and
 \item diagnosis requires meeting the criteria for both the broad disorder and the specific type.
-\item If they do not match a specific type, subjects may be diagnosed with Personality Disorder—Not Otherwise Specified (PD-NOS).\\~\\
-\end{itemize}
+\item If they do not match a specific type, subjects may be diagnosed with Personality Disorder--Not Otherwise Specified (PD-NOS).\\~\\
+\end{itemize}\pagebreak
 Within the Alternative Hybrid Model,
 \begin{itemize}
 \item subjects are evaluated for impairments in typical personality functioning, and
 \item assessed on five broad areas of pathological personality traits.
 \item clinicans then diagnose patients into six perosonality disorder types, by matching specific patterns of five traits.
-\item If they do not match a specific pattern, subjects may be diagnosed with Personality Disorder—Trait Specified (PD-TS).
+\item If they do not match a specific pattern, subjects may be diagnosed with Personality Disorder--Trait Specified (PD-TS).
 \end{itemize}
 \end{frame}

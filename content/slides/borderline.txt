@@ -1,5 +1,5 @@
 \begin{frame}[fragile,allowframebreaks]{Borderline Personality Disorder}
-\href{https://youtu.be/_-nQ7qWO6Ts?t=4m45s}{\underline{Girl Interrupted Video Example}}\\~\\
+\href{https://youtu.be/_-nQ7qWO6Ts?t=4m45s}{\underline{Girl, Interrupted (1999). Video Example}}\\~\\\nocite{Mangold1999}\nocite{Lenny2011}
 Categorical Diagnositic Criteria\\
 \begin{itemize} \item A pervasive  pattern  of instability  of  interpersonal  relationships,  self-image,  and  affects, 
 and marked impulsivity, beginning by early adulthood and present in a variety of contexts, as indicated by \textbf{five (or more)} of the following:\begin{enumerate}
@@ -12,15 +12,15 @@ and marked impulsivity, beginning by early adulthood and present in a variety of
 \item Chronic feelings of emptiness.
 \item Inappropriate,  intense anger or difficulty controlling  anger (e.g.,  frequent displays of temper, constant anger, recurrent physical fights).
 \item Transient, stress-related paranoid ideation or severe dissociative symptoms.\end{enumerate}
-\end{itemize}\\~\\
+\end{itemize}\pagebreak
 Dimensional Diagnositic Criteria\\
 \begin{itemize} \item Moderate or greater impairment in personality functioning, manifested by characteristic
 difficulties in \textbf{two or more} of the following four areas: \begin{enumerate}\item Identity:  Markedly impoverished,  poorly developed,  or unstable self-image, often associated with excessive self-criticism; chronic feelings of emptiness; dissociative states under stress.
 \item Self-direction: Instability in goals, aspirations, values, or career plans.
 \item Empathy: Compromised ability to recognize the feelings and needs of others associated with inteφersonal hypersensitivity (i.e., prone to feel slighted or insulted); perceptions of others selectively biased toward negative attributes or vulnerabilities.
 \item Intimacy: Intense, unstable, and conflicted close relationships, marked by mistrust, neediness, and anxious preoccupation with real or imagined abandonment; close relationships often viewed in extremes of idealization and devaluation and alternating between overinvolvement and withdrawal.\end{enumerate}
-\item  \textbf{Four or more} of the following seven pathological personality traits, at least one of which must be \textbf{(5) Impulsivity, (6) Risk taking, or (7) Hostility}:\beng{enumerate}
-\item Emotional lability (an aspect of Negative Affectivity):  Unstable emotional experiences and frequent  mood  changes;  emotions that are  easily aroused,  intense, and/or out of proportion to events and circumstances.
+\item  \textbf{Four or more} of the following seven pathological personality traits, at least one of which must be \textbf{(5) Impulsivity, (6) Risk taking, or (7) Hostility}:
+\begin{enumerate}\item Emotional lability (an aspect of Negative Affectivity):  Unstable emotional experiences and frequent  mood  changes;  emotions that are  easily aroused,  intense, and/or out of proportion to events and circumstances.
 \item Anxiousness  (an  aspect  of  Negative  Affectivity):  Intense  feelings  of  nervousness, tenseness, or panic, often in reaction to interpersonal stresses; worry about the negative effects of past unpleasant experiences and future negative possibilities;  feeling  fearful,  apprehensive,  or threatened  by  uncertainty;  fears  of  falling apart or losing control.
 \item Separation insecurity (an aspect of Negative Affectivity): Fears of rejection by -— and/or separation from—significant others, associated with fears of excessive dependency and complete loss of autonomy.
 \item Depressivity (an aspect of Negative Affectivity): Frequent feelings of being down, miserable,  and/or  hopeless;  difficulty  recovering  from  such  moods;  pessimism about the future;  pervasive shame; feelings of inferior self-worth; thoughts of suicide and suicidal behavior.

@@ -1,4 +1,4 @@
-\begin{frame}[fragile,allowframebreaks]{References}
+\begin{frame}[fragile]{References}
 \bibliographystyle{apacite}
 \bibliography{Personality_Disorder_Structure}
 \end{frame}
