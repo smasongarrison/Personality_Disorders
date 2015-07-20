@@ -1,0 +1,33 @@
+### Personality Disorders: Categorical vs. continous
+
+Categorical
+
+Personality disorders
+						Cluster A (odd or eccentric behaviors)
+								Paranoid personality disorder
+								Schizoid personality disorder
+								Schizotypal personality disorder
+						Cluster B (dramatic, emotional, or erratic behaviors)
+								Antisocial personality disorder
+								Borderline personality disorder
+								Histrionic personality disorder
+								Narcissistic personality disorder
+						Cluster C (anxious or fearful behaviors)
+								Avoidant personality disorder
+								Dependent personality disorder
+								Obsessive-compulsive personality disorder
+
+
+DSM IV: Axis II includes the less severe but long-lasting personality disorders as well as mental retardation
+										# http://ocw.mit.edu/ans7870/9/9.00SC/MIT9_00SCF11_text.pdf
+DSM V: 
+Pros:
+Cons:
+
+people diagnosed with one personality disorder frequently suffer from other personality disorders 
+										#  Kessler, R. C., Chiu, W. T., Demler, O., & Walters, E. E. (2005). Prevalence, severity, and comorbidity of 12-month DSMIV disorders in the National Comorbidity Survey Replication. Archives of General Psychiatry, 62(6), 617–627.
+
+
+Continous
+
+

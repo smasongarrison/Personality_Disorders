@@ -1,0 +1,23 @@
+\frame{
+\frametitle{Not Otherwise Specified}
+\begin{columns}
+\begin{column}{5cm}
+\begin{itemize}
+\item<1->{Personality change due to another medical condition}
+\alt<1-2>{\begin{itemize}\item `` is a persistent personality disturbance that is judged to be due to the direct physiological effects of a medical condition (e.g., frontal lobe lesion)''\citep{dsm2013diagnostic}.\end{itemize}}{ }
+\end{itemize}
+\vspace{3cm} 
+\end{column}
+\begin{column}{5cm}
+\begin{overprint}
+\includegraphics<1>[width=\textwidth]{gage}
+\includegraphics<2>[width=\textwidth]{gage2}
+\end{overprint}
+\end{column}
+\end{columns}}
+
+\frame{
+\frametitle{Not Otherwise Specified}
+\begin{itemize}\item{Other specified personality disorder and unspecified personality disorder} ``is a category provided for two situations: \begin{enumerate}\item the individual's personality pattern meets the general criteria for a personality disorder, and traits of several different personality disorders are present, but the criteria for any specific personality disorder are not met;\\~\\\item  the individual's personality pattern meets the general criteria for a personality disorder, but the individual is considered to have a personality disorder that is not included in the DSM$-$5 classification (e.g., passive-aggressive personality disorder).''\end{enumerate}
+\end{itemize}
+}

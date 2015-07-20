@@ -1,0 +1,79 @@
+\documentclass[a4paper,man,natbib,12pt,apacite]{apa6}\usepackage[]{graphicx}\usepackage[]{color}
+%% maxwidth is the original width if it is less than linewidth
+%% otherwise use linewidth (to make sure the graphics do not exceed the margin)
+\makeatletter
+\def\maxwidth{ %
+  \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\definecolor{fgcolor}{rgb}{0.345, 0.345, 0.345}
+\newcommand{\hlnum}[1]{\textcolor[rgb]{0.686,0.059,0.569}{#1}}%
+\newcommand{\hlstr}[1]{\textcolor[rgb]{0.192,0.494,0.8}{#1}}%
+\newcommand{\hlcom}[1]{\textcolor[rgb]{0.678,0.584,0.686}{\textit{#1}}}%
+\newcommand{\hlopt}[1]{\textcolor[rgb]{0,0,0}{#1}}%
+\newcommand{\hlstd}[1]{\textcolor[rgb]{0.345,0.345,0.345}{#1}}%
+\newcommand{\hlkwa}[1]{\textcolor[rgb]{0.161,0.373,0.58}{\textbf{#1}}}%
+\newcommand{\hlkwb}[1]{\textcolor[rgb]{0.69,0.353,0.396}{#1}}%
+\newcommand{\hlkwc}[1]{\textcolor[rgb]{0.333,0.667,0.333}{#1}}%
+\newcommand{\hlkwd}[1]{\textcolor[rgb]{0.737,0.353,0.396}{\textbf{#1}}}%
+
+\usepackage{framed}
+\makeatletter
+\newenvironment{kframe}{%
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\definecolor{messagecolor}{rgb}{0, 0, 0}
+\definecolor{warningcolor}{rgb}{1, 0, 1}
+\definecolor{errorcolor}{rgb}{1, 0, 0}
+\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
+
+\usepackage{alltt}
+\usepackage[final]{pdfpages}
+\usepackage{hyperref}
+\usepackage{varioref}
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\begin{document}
+\title{Snippets from the DSM-5: Personality Disorders}
+\shorttitle{Snippets from the DSM-5}
+\affiliation{Mason Garrison}
+%\abstract{Disclaimer: The following documents are owned by the American Psychiatric Association. I do not own the content; these files are for educational purposes only.}
+\maketitle \setboolean{@twoside}{false}The following documents are listed in order of appearance. \begin{itemize} \item The American Psychiatric Association (APA) Personality Disorders Fact Sheet. The Fact Sheet is \vref{PDFactSheet}.
+
+\item Preface and Introduction to the DSM-5 is \vref{DSMintro}. Note, the discussion on the dimensional approach to diagnosis \vref{DSMintro2}.
+\item DSM-5/DSM-IV-TR Personality Disorder Chapter begins \vref{DSMPD}. This chapter uses categorical personality structure.
+\item DSM-5 ``Alternative DSM-5 Model for Personality Disorders'' is the dimensional diagnosistic model. It is located in the DSM-5 Section III: Emerging Measures and Models. In this PDF, those files are located \vref{DSMtask}.\end{itemize}
+\includepdf[pages=1,scale=.95,pagecommand={\section{Personality Disorder Fact Sheet}\label{PDFactSheet}\hfill}]{content/pdfs/PDFact_Sheet.pdf}
+\includepdf[pages=2,scale=1,pagecommand={\hfill}]{content/pdfs/PDFact_Sheet.pdf}
+\includepdf[pages=1,scale=.95,pagecommand={\section{DSM-5 Title Page, et cetera}\label{DSMtitleetc}\hfill}]{content/pdfs/DSM_5.pdf}
+\includepdf[pages={2-12},scale=1,pagecommand={\hfill}]{content/pdfs/DSM_5.pdf}
+\includepdf[pages=41,scale=.95,pagecommand={\section{DSM-5 Preface and Intro}\label{DSMintro}\hfill}]{content/pdfs/DSM_5.pdf}
+\includepdf[pages={42-44},scale=1,pagecommand={\hfill}]{content/pdfs/DSM_5.pdf}
+\includepdf[pages={47-53},scale=1,pagecommand={\hfill}]{content/pdfs/DSM_5.pdf}
+\includepdf[pages=54,scale=1,pagecommand={\subsection{}\label{DSMintro2}\hfill}]{content/pdfs/DSM_5.pdf}
+\includepdf[pages={55-58},scale=1,pagecommand={\hfill}]{content/pdfs/DSM_5.pdf}
+\includepdf[pages=677,scale=.95,pagecommand={\section{DSM-5/DSM-IV-TR Personality Disorders}\label{DSMPD}\hfill}]{content/pdfs/DSM_5.pdf}
+\includepdf[pages={677-716},scale=1,pagecommand={\hfill}]{content/pdfs/DSM_5.pdf}
+\includepdf[pages=759,scale=.95,pagecommand={\section{DSM-5 Alternative Model}\label{DSMtask}\hfill}]{content/pdfs/DSM_5.pdf}
+\includepdf[pages={760},scale=1,pagecommand={\hfill}]{content/pdfs/DSM_5.pdf}
+\includepdf[pages={788-808},scale=1,pagecommand={\hfill}]{content/pdfs/DSM_5.pdf}
+\end{document}

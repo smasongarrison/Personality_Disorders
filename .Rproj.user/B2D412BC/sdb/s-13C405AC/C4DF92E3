@@ -1,0 +1,17 @@
+{
+    "contents" : "\\begin{frame}[fragile,allowframebreaks]{Personality Disorder Structure}\nWithin the Categorical Model,\n\\begin{itemize}\n\\item disorders fall within 10 distinct types,\n\\item one either has the disorder or does not, and\n\\item diagnosis requires meeting the criteria for both the broad disorder and the specific type.\n\\item If they do not match a specific type, subjects may be diagnosed with Personality Disorder—Not Otherwise Specified (PD-NOS).\\\\~\\\\\n\\end{itemize}\nWithin the Alternative Hybrid Model,\n\\begin{itemize}\n\\item subjects are evaluated for impairments in typical personality functioning, and\n\\item assessed on five broad areas of pathological personality traits.\n\\item clinicans then diagnose patients into six perosonality disorder types, by matching specific patterns of five traits.\n\\item If they do not match a specific pattern, subjects may be diagnosed with Personality Disorder—Trait Specified (PD-TS).\n\\end{itemize}\n\\end{frame}",
+    "created" : 1437362373925.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "190754956",
+    "id" : "C4DF92E3",
+    "lastKnownWriteTime" : 1437365380,
+    "path" : "C:/Dropbox/Work/Class/UBC/Personality/Personality Disorders/content/slides/Structure.txt",
+    "project_path" : "content/slides/Structure.txt",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "text"
+}

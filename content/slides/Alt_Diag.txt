@@ -1,0 +1,18 @@
+\begin{frame}[fragile]{Diagnosis}
+A diagnosis of a personality disorder requires two determinations: \begin{enumerate}
+\item an assessment of the level of impairment in personality functioning, which is needed for Criterion A, and 
+\item an evaluation of pathological personality traits, which is required for Criterion B. 
+\end{enumerate}
+\end{frame}
+
+\begin{frame}[fragile]{\normalsize Criterion A: Personality Functioning}
+Disturbances in self and interpersonal functioning are the core of personality psychopathology \begin{itemize} \item Self functioning involves identity and self-direction; \item interpersonal functioning involves empathy and intimacy.
+\item Each are evaluated with the Level of Personality Functioning Scale (LPFS); 
+\item impairment ratings range from \begin{itemize} \item little or no impairment (i.e., healthy, adaptive functioning; Level 0) to \item some (Level 1), \item  moderate (Level 2), \item  severe (Level 3), and \item  extreme (Level 4) impairment.\end{itemize}\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile,allowframebreaks]{\small Criterion B: Pathological Personality Traits}
+\begin{itemize}\item Five broad domains: \begin{itemize} \item Negative Affectivity (vs. Emotional Stability), \item Detachment (vs. Extraversion), 
+\item Antagonism (vs. Agreeableness), \item Disinhibition (vs. Conscientiousness), and \item Psychoticism (vs. Lucidity).\end{itemize} 
+\item Each domain has 5 facets, based on a review of existing trait models and iterative empirical research on clinical samples.\end{itemize}
+\end{frame}

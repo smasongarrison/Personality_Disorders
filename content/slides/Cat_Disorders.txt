@@ -1,0 +1,15 @@
+\begin{frame}[fragile]{Categorical Personality Disorders}
+\begin{itemize}
+\item Cluster A (Weird)\\\begin{itemize}\item Paranoid personality disorder
+\item Schizoid personality disorder
+\item Schizotypal personality disorder\end{itemize}
+\item Cluster B (Wild)\\\begin{itemize}\item Antisocial personality disorder
+\item Borderline personality disorder
+\item Histrionic personality disorder
+\item Narcissistic personality disorder\end{itemize}
+\item Cluster C (Worried)\\\begin{itemize}\item Avoidant personality disorder
+\item Dependent personality disorder
+\item Obsessive-compulsive personality disorder
+\end{itemize}\item Personality disorder not otherwise specified
+\end{itemize}
+\end{frame}

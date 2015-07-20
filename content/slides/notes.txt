@@ -1,0 +1,70 @@
+taxometrix -- test whether catego
+
+construct validity
+
+spitzer new york times articles
+
+psychopaths vs. anti-social p (laid out bevaiorally)
+
+
+apa vs. apa
+apa, skinner behavior 
+
+apa psychology continous (paul mehl taxometic method)
+
+Then the current two models
+
+merits of each
+
+case study for all
+
+anti-social prison based record 
+
+dsm-V ; popular press article; validity vs. inuition (kelly and fiske actuarial vs. clinical)
+
+
+\begin{columns}
+\column{0.8\textwidth}
+     \begin{itemize}
+\item{Paranoid personality disorder} \begin{itemize}
+\item is characterized by ``a pervasive distrust and suspiciousness of others such that their motives are interpreted as malevolent''\citep{dsm2013diagnostic}\end{itemize}\end{itemize}
+\column{0.2\textwidth}
+\vspace{-1.5cm}
+
+\end{columns}
+\begin{itemize}\begin{itemize}\item Individuals with this personality disorder may be hypersensitive, easily feel slighted, and habitually relate to the world by vigilant scanning of the environment for clues or suggestions that may validate their fears or biases. \item Paranoid individuals are eager observers. \item They think they are in danger and look for signs and threats of that danger, potentially not appreciating other evidence.\end{itemize}
+\item Schizoid personality disorder
+\item Schizotypal personality disorder\end{itemize}
+\end{frame}
+\begin{frame}{Cluster A (Weird)}
+\begin{columns}
+\column{0.8\textwidth}
+     \begin{itemize}
+\item{Paranoid personality disorder} 
+\item is characterized by ``a pervasive distrust and suspiciousness of others such that their motives are interpreted as malevolent''\citep{dsm2013diagnostic}\end{itemize}
+\column{0.2\textwidth}
+\vspace{-1.5cm}
+\includegraphics[width=\textwidth]{paranoid}
+\end{columns}
+\begin{itemize}\begin{itemize}\item Individuals with this personality disorder may be hypersensitive, easily feel slighted, and habitually relate to the world by vigilant scanning of the environment for clues or suggestions that may validate their fears or biases. \item Paranoid individuals are eager observers. \item They think they are in danger and look for signs and threats of that danger, potentially not appreciating other evidence.\end{itemize}
+\item Schizoid personality disorder
+\item Schizotypal personality disorder\end{itemize}
+
+
+
+Personality traits are enduring patterns of perceiving, relating to, and thinking about the en­
+vironment and oneself that are exhibited in a wide range of social and personal contexts. 
+Only when personality traits are inflexible and maladaptive and cause significant func­
+tional impairment or subjective distress do they constitute personality disorders. The essen­
+tial feature of a personality disorder is an enduring pattern of inner experience and behavior 
+that deviates markedly from the expectations of the individual's culture and is manifested 
+in at least two of the following areas: cognition, affectivity, interpersonal functioning, or im­
+pulse control (Criterion A). This enduring pattern is inflexible and pervasive across a broad 
+range of personal and social situations (Criterion B) and leads to clinically significant dis­
+tress or impairment in social, occupational, or other important areas of functioning (Crite­
+rion C). The pattern is stable and of long duration, and its onset can be traced back at least 
+to adolescence or early adulthood (Criterion D). The pattern is not better explained as a 
+manifestation or consequence of another mental disorder (Criterion E) and is not attribut­
+able to the physiological effects of a substance (e.g., a drug of abuse, a medication, exposure 
+to a toxin) or another medical condition (e.g., head trauma) (Criterion F). Specific diagnostic 
+criteria are also provided for each of the personality disorders included in this chapter.

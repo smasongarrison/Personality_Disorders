@@ -1,0 +1,14 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{1}{0}{1}
+\beamer@subsectionintoc {1}{1}{Personality Disorder Structure}{5}{0}{1}
+\beamer@sectionintoc {2}{Categorical Personality Disorders}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{General Criteria}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Disorders}{9}{0}{2}
+\beamer@sectionintoc {3}{Dimensional Personality Disorders}{23}{0}{3}
+\beamer@subsectionintoc {3}{1}{General Criteria}{23}{0}{3}
+\beamer@subsectionintoc {3}{2}{Diagnosis}{26}{0}{3}
+\beamer@subsectionintoc {3}{3}{Disorders}{29}{0}{3}
+\beamer@sectionintoc {4}{Categorical vs. Dimensional}{30}{0}{4}
+\beamer@subsectionintoc {4}{1}{Similarities}{30}{0}{4}
+\beamer@subsectionintoc {4}{2}{Differences}{30}{0}{4}
+\beamer@sectionintoc {5}{Discussion}{30}{0}{5}

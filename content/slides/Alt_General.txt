@@ -1,0 +1,11 @@
+\begin{frame}[fragile,allowframebreaks]{General Personality Disorder Criteria}
+Personality disorders are characterized by \textbf{impairments in personality functioning} and \textbf{pathological personality traits}. The essential features are:
+\begin{itemize} \item Moderate or greater impairment in personality (self/interpersonal) functioning.\\~\\
+\item One or more pathological personality traits.\\~\\
+\item The impairments in personality functioning and the individual's personality trait expression are relatively inflexible and pervasive across a broad range of personal and social situations.\\~\\
+\item The impairments in personality functioning and the individual's personality trait expression are relatively stable across time, with onsets that can be traced back to at least adolescence or early adulthood.\\~\\
+\item The impairments in personality functioning and the individual's personality trait expression are not better explained by another mental disorder.\\~\\
+\item The impairments in personality functioning and the individual's personality trait expression are not solely attributable to the physiological effects of a substance or another medical condition (e.g., severe head trauma).\\~\\
+\item The impairments in personality functioning and the individual's personality trait expression are not better understood as normal for an individual’s developmental stage or sociocultural environment.
+\end{itemize}
+\end{frame}

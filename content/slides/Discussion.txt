@@ -1,0 +1,7 @@
+\begin{frame}[fragile]{Discussion Points}
+\begin{itemize}
+\item The DSM dimensional approach seems to suggest that one pole of the Big Five is the maladaptive one.  What other approaches disagree?\\~\\
+\item What are the pros and cons to dimensional vs. clinical approaches to PDs? \\~\\
+\item Why the reduction from 10 clinical to 6 dimensional PDs?\\~\\
+\item How does the dimensional approach use as the cut-off from normal to abnormal?  Isn't that the same as the clinical approach?\end{itemize}
+\end{frame}

@@ -1,0 +1,22 @@
+\frame{
+\frametitle{Cluster B (Wild)}
+\begin{columns}
+\begin{column}{5cm}
+\begin{itemize}
+\item<1->{Antisocial personality disorder}
+\alt<1>{\begin{itemize}\item is ``a pattern of disregard for, and violation of, the rights of others''\citep{dsm2013diagnostic}.\end{itemize}}{\item<2->{Borderline personality disorder}}
+\alt<2>{\begin{itemize}\item is characterized by``a  pattern  of instability  in  interpersonal  relationships, self-image, and affects, and marked impulsivity.''\end{itemize}}{\item<3->{Histrionic personality disorder}}
+\alt<3>{\begin{itemize}\item ``is  a pattern of excessive  emotionality and  attention seeking.''\end{itemize}}{\item<4->{Narcissistic personality disorder}}
+\alt<4>{\begin{itemize}\item is characterized by ``a pattern of grandiosity, need for admiration, and lack of empathy.''\end{itemize}}{ }
+\end{itemize}
+\vspace{3cm} 
+\end{column}
+\begin{column}{5cm}
+\begin{overprint}
+\includegraphics<1>[width=\textwidth]{antisocial}
+\includegraphics<2>[width=\textwidth]{borderline}
+\includegraphics<3>[width=\textwidth]{histrionic}
+\includegraphics<4>[width=\textwidth]{narcissistic}
+\end{overprint}
+\end{column}
+\end{columns}}

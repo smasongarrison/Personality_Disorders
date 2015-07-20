@@ -1,0 +1,9 @@
+\documentclass[a4paper,man,natbib,12pt,apacite]{apa6}
+\usepackage[final]{pdfpages}
+\usepackage{hyperref}
+\usepackage{varioref}
+\begin{document}
+
+\includepdf[pages=1-2,scale=1]{apasnip.pdf}
+
+\end{document}

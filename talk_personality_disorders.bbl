@@ -1,0 +1,26 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{American Psychiatric Association}%
+}{%
+{American Psychiatric Association}%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+dsm2013diagnostic}
+\APACinsertmetastar {%
+dsm2013diagnostic}%
+\begin{APACrefauthors}%
+{American Psychiatric Association}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Diagnostic and statistical manual of mental disorders}}
+  {{Diagnostic and statistical manual of mental disorders}}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
