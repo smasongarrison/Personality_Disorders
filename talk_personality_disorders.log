@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  20 JUL 2015 12:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  20 JUL 2015 14:25
 entering extended mode
 **talk_personality_disorders.tex
 
@@ -1202,7 +1202,7 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 14.
 
 
-Overfull \vbox (5.01732pt too high) detected at line 14
+Overfull \vbox (4.02948pt too high) detected at line 14
  []
 
 [1{C:/Users/smaso_000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
@@ -1754,13 +1754,13 @@ ged.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
  ) 
 Here is how much of TeX's memory you used:
- 22671 strings out of 493921
- 458620 string characters out of 3147269
- 602427 words of memory out of 3000000
- 25205 multiletter control sequences out of 15000+200000
+ 22675 strings out of 493921
+ 458699 string characters out of 3147269
+ 602337 words of memory out of 3000000
+ 25209 multiletter control sequences out of 15000+200000
  26509 words of font info for 74 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,19n,69p,753b,1215s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,19n,69p,753b,1218s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
@@ -1769,7 +1769,7 @@ type1/public/amsfonts/symbols/msam7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/
 uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:
 /Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on talk_personality_disorders.pdf (61 pages, 4330544 bytes).
+Output written on talk_personality_disorders.pdf (61 pages, 4331254 bytes).
 PDF statistics:
  4796 PDF objects out of 5155 (max. 8388607)
  138 named destinations out of 1000 (max. 500000)

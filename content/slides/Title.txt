@@ -1,7 +1,7 @@
 \section{Introduction}
 \begin{frame}
 \title[DSM-V Kerfuffle]{Dimensional vs. Categorical Personality Disorder Structure}
-\subtitle{The DSM-V Kerfuffle}
+\subtitle{The DSM-5 Kerfuffle}
 \author{S. Mason Garrison \\
 	{\it Vanderbilt University, Peabody College}}
 \date{
